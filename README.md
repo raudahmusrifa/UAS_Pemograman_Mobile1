@@ -68,13 +68,13 @@ Berikut Fitur yang ada didalam project ini :
 
 - Movies
   - Didalam program ini kita membuat sebauh `Tab Fragment` yang mana didalamnya terdapat kumpulan poster movies
-  - Action move
+  - Action movie
   - <img width="245" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/50cbd882-f2d6-443c-af9f-32dcc3bc9212">
 
-  - Romantis move
+  - Romantis movie
   - <img width="242" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/b33b4f5f-d353-477f-8ae6-4399d8d92d0d">
 
-  - Horror move
+  - Horror movie
   - <img width="241" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/2acefdf4-a6b0-4fbd-9444-98541af1bc7d">
 
 
