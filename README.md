@@ -2,9 +2,9 @@
 
 > [!PROFIL]
 > 
-> Nama   : Aditia Seftiawan
+> Nama   : Raudah Musrifa
 > 
-> NIM    : 312210094
+> NIM    : 312210020
 > 
 > Kelas  : TI22B1
 > 
@@ -18,35 +18,38 @@ Berikut Fitur yang ada didalam project ini :
 
 - SplashScren
   - Didalam program ini kita membuat sebuah splash screen ialah sebuah tampilan yang muncul pertama kali disaat aplikasi dibuka, dan setelah itu langsung redirect ke halaman home
-  - <img width="241" alt="Screenshot 2024-01-15 214755" src="https://github.com/aditia0110/UasMobile/assets/115475348/c2701675-aa9f-4ace-837c-cb208f24fe19">
+  - ![101](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/0b1d18bd-ce5a-476c-bcde-b89c5e9360af)
 
 
 
 - Home Screen Layout Grid
   - Di fitur ini kita membuat sebuah home screen versi 2 yang mana home screen sebelumnya terdapat menu yang berbentuk list, dan dihome screen saat ini menu berbentuk sebuah grid menggunakan icon
-  - <img width="242" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/4ecbbc09-1e9f-47d3-9b4d-b21dbd45d92a">
+  - ![uasmobile1](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/58dcedc0-09d9-4f56-8183-528911307ed9)
+
+
 
 
 - Hello world
   - Didalam program ini kita menampilkan tulisan hello world
-  - <img width="242" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/d10c7b42-77f4-4155-b0e2-28ea53287316">
+  - ![hellomobile](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/1250c32c-7162-4165-a598-7569c9bb089e)
 
     
 - Count
   - Didalam program ini kita membuat sebuah program menghitung, ketika sebuah button diklik maka angka akan bertambah terus,
-  - <img width="241" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/a241409d-a8c0-4257-8bb8-d44f36fb2c4a">
+  - ![104](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/0fcd0e54-a2d0-45f5-b517-95d5bdce4fb0)
+
 
 - Two Activity
   - Didalam program ini kita belajar membuat dua activity, yang saling memanggil
-  - <img width="245" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/6993f696-e55f-447b-bedf-6a156cdd526f">
-  - <img width="248" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/b3d482a3-8314-40a9-9a46-4e37abb8ae9d">
+  - ![105](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/08115e97-8374-41e9-ba20-216d4042a146)
+
 
  
     
 
 - Sianida
   - Didalam program ini kita belajar menggunakan tag `ScrollView` yaitu untuk scrooll sebuah screen jika konten melebihi tinggi screen awal, maka otomatis bisa discroll
-  - <img width="242" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/c95830d4-aba7-4f0a-a4f6-47b2a1f6ae7f">
+  - ![106](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/dd75306f-2af7-4631-935b-03f07aac09c6)
 
 
 
@@ -57,31 +60,29 @@ Berikut Fitur yang ada didalam project ini :
  
 - Alarm
   - Didalam program ini kita belajar menggunakan Intent explisit untuk memanggil sebuah library alarm yang ada di java untuk membuat sebuah alarm
-  - <img width="244" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/2341121e-6dec-4e0e-9d64-08d4a0c2bd89">
+  - ![108](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/6e221c7a-aa03-4a2b-8a7b-24082c464e25)
 
 
 
 - Maps
    - Didalam program ini kita belajar menggunakan Intent Implisit yaitu kita akan memanggil service atau membuka aplikasi google maps
-   - ![Screenshot_1705030669](https://github.com/adam-webdev/uas-pemrogramman-android/assets/75572469/8de0f7e3-7312-4bd7-9098-11215a4edb73)
+   - ![109](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/a6c84874-0d33-4ebe-888f-f651a5c33a8e)
 
 
 - Movies
   - Didalam program ini kita membuat sebauh `Tab Fragment` yang mana didalamnya terdapat kumpulan poster movies
   - Action movie
-  - <img width="245" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/50cbd882-f2d6-443c-af9f-32dcc3bc9212">
-
   - Romantis movie
-  - <img width="242" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/b33b4f5f-d353-477f-8ae6-4399d8d92d0d">
-
   - Horror movie
-  - <img width="241" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/2acefdf4-a6b0-4fbd-9444-98541af1bc7d">
+    
+ https://github.com/raudahmusrifa/PemogramanMobile1_Pertemuan12/assets/115474431/4f3554d3-fa99-4959-b9bc-73dd009943e6
 
 
  
 - Detail Movies
   - Didalam program ini kita membuat screen detail movie yang mana didalamnya terdapat detail sebuah moview seperti sutradara, bintang film, asal film, sinopsis dll
-  - <img width="242" alt="image" src="https://github.com/aditia0110/UasMobile/assets/115475348/5e8639f6-f44f-4520-8458-e88702aa61e5">
+  - ![trailer](https://github.com/raudahmusrifa/UAS_Pemograman_Mobile1/assets/115474431/da23f0b7-3b99-4ad0-a333-5e7779d3cc1a)
+
 
 
 Demikianlah Projek UAS dri saya, kurang lebihnya mohon maaf
