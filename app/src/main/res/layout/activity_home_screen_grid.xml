@@ -10,7 +10,7 @@
         android:id="@+id/header"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/dark"
+        android:background="@color/pinky"
         android:orientation="vertical">
 
         <ImageView
@@ -20,7 +20,7 @@
             android:layout_centerVertical="true"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="0dp"
-            android:src="@drawable/logofix" />
+            android:src="@drawable/moonlightfaa" />
 
         <TextView
             android:id="@+id/judul"
@@ -29,8 +29,8 @@
             android:layout_below="@+id/imghome"
             android:layout_margin="20dp"
             android:layout_marginTop="0dp"
-            android:text="Welcome to ADITIA CO."
-            android:textColor="@color/white"
+            android:text="Selamat Datang Di Moonlightfaa"
+            android:textColor="@color/black"
             android:textSize="24sp" />
     </LinearLayout>
 
